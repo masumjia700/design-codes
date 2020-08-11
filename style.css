@@ -1,0 +1,63 @@
+body{
+	background-image:url('images/bg.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	/* background-position:left top; */
+	
+}
+.reg-form{
+	width:600px;
+	background:rgba(33,33,33,0.4);
+	margin:100px auto;
+	padding:40px 20px;
+}
+.reg-form form label{
+	color:#fff;
+	cursor:pointer;
+	padding:5px 0;
+	display:block;
+	font-size:20px;
+	font-family:tahoma;
+}
+.reg-form form input{
+	display:block;
+	width:100%;
+	padding:5px;
+	font-size:18px;
+	border:1px solid yellow;
+	background:transparent;
+	color:#fff;
+	border-radius:5px;
+}
+.reg-form form input[type=submit]{
+	width:200px;
+	margin-top:20px;
+	cursor:pointer;
+}
+.reg-form  form  p{
+	color:#fff;
+	font-size:20px;
+	margin-top:15px;
+}
+
+.reg-form  form  p a{
+	color:yellow;
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
